@@ -1,0 +1,19 @@
+header{
+    background-color: aqua;
+    height: 100px;
+    text-align: center;
+    font-size: 100px;
+}
+div{
+    background: linear-gradient(rgb(233, 233, 71), rgb(15, 235, 235));
+    height:400px ;
+    text-align: center;
+    font-size: 150px;
+}
+footer{
+    background-color: violet;
+    margin-bottom: 0;
+    height: 100px;
+    font-size: 100px;
+    text-align: center;
+}
